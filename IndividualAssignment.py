@@ -162,7 +162,7 @@ def sidebar():
         unsafe_allow_html=True,
     )
     st.sidebar.title("FINANCIAL DASHBOARD")
-    st.sidebar.image("C:/Users/bjacobsen/Desktop/FP/IndividualAssignment/Yahoo-Finance.png", use_column_width=True)
+    st.sidebar.image("Yahoo-Finance.png", use_column_width=True)
 
 
     # Ticker selection
